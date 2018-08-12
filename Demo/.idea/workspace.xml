@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e5b3d75c-c425-4808-ba81-dd1d770a689a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/demo1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/artifacts/dao_war_exploded.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/artifacts/entity_war_exploded.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/artifacts/hello_module_war_exploded.xml" beforeDir="false" />
@@ -246,12 +244,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1534055172463</updated>
-      <workItem from="1534055180164" duration="6106000" />
+      <workItem from="1534055180164" duration="6465000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6106000" />
+    <option name="totallyTimeSpent" value="6465000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
